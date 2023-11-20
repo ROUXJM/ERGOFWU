@@ -5,6 +5,9 @@
 2. Updated that
 3. Added some...
 
+### V1.0.4
+1. Test release
+
 ### V1.0.0
 1. First firmware release...
 
