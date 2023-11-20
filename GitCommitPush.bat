@@ -1,7 +1,7 @@
 @echo off
 
-echo Commit and Push to GitHub
-echo -------------------------
+echo Update GitHub ERGOFWU
+echo ---------------------
 
 set /p message= Please enter the update message: 
 
