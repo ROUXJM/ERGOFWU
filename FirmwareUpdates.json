@@ -1,14 +1,9 @@
 {
   "Firmwares": [
     {
-      "Board": "ERG-001-A-0101",
-      "Version": "1.2.0",
-      "URL": "https://raw.githubusercontent.com/ROUXJM/ERGOFWU/main/Gateway-V1.2.0.bin"
-    },
-    {
-      "Board": "ANY_NEW_ERGO_BOARD",
-      "Version": "1.0.5",
-      "URL": "https://raw.githubusercontent.com/ROUXJM/ERGOFWU/main/AnyNewBoard-V1.0.5.bin"
+      "Board": "ERGOSENSE EP32 Gateway",
+      "Version": "1.0.4",
+      "URL": "https://raw.githubusercontent.com/ROUXJM/ERGOFWU/main/Gateway-V1.0.4.bin"
     }
   ]
 }
