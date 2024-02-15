@@ -1,7 +1,7 @@
 {
   "Firmwares": [
     {
-      "Board": "ESP32_DEV",
+      "Board": "ERG-001-A-0101",
       "Version": "1.0.4",
       "URL": "https://raw.githubusercontent.com/ROUXJM/ERGOFWU/main/Gateway-V1.0.4.bin"
     }
