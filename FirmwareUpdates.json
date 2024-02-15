@@ -2,8 +2,8 @@
   "Firmwares": [
     {
       "Board": "ERGOSENSE EP32 Gateway",
-      "Version": "1.0.4",
-      "URL": "https://raw.githubusercontent.com/ROUXJM/ERGOFWU/main/Gateway-V1.0.4.bin"
+      "Version": "1.0.6",
+      "URL": "https://raw.githubusercontent.com/ROUXJM/ERGOFWU/main/Gateway-V1.0.6.bin"
     },
     {
       "Board": "GOOUUU-ESP32-C3 Mini Dev Board",
