@@ -7,8 +7,8 @@
     },
     {
       "Board": "GOOUUU-ESP32-C3 Mini Dev Board",
-      "Version": "1.0.1",
-      "URL": "https://raw.githubusercontent.com/ROUXJM/ERGOFWU/main/Goouuu-V1.0.1.bin"
+      "Version": "1.0.0",
+      "URL": "https://raw.githubusercontent.com/ROUXJM/ERGOFWU/main/Goouuu-V1.0.0.bin"
     }
   ]
 }
