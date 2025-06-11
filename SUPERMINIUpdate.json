@@ -3,7 +3,7 @@
     {
       "Board": "ERGOSENSE ESP32-C3-SUPERMINI",
       "Version": "1.0.1",
-      "URL": "https://github.com/ROUXJM/ERGOFWU/blob/main/supermini-V1.0.1.bin"
+      "URL": "https://raw.githubusercontent.com/ROUXJM/ERGOFWU/main/supermini-V1.0.1.bin"
     }
   ]
 }
