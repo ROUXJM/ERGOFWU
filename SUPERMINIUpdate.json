@@ -2,8 +2,9 @@
   "Configurations": [
     {
       "Board": "ERGOSENSE ESP32-C3-SUPERMINI",
-      "Version": "1.1.0",
-      "URL": "https://raw.githubusercontent.com/ROUXJM/ERGOFWU/main/supermini-V1.1.0.bin"
+      "Version": "1.1.1",
+      "Device": "48:CA:43:D4:17:DC",
+      "URL": "https://raw.githubusercontent.com/ROUXJM/ERGOFWU/main/supermini-V1.1.1.bin"
     }
   ]
 }
