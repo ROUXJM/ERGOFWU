@@ -4,9 +4,10 @@
       "Board": "ERGOSENSE ESP32-C3-SUPERMINI",
       "Version": "1.0.1",
       "Config": "SUPERMINI_WiFi_PROV",
-      "URL": "https://raw.githubusercontent.com/ROUXJM/ERGOFWU/main/supermini-V2.0.0.bin"
+      "URL": "https://raw.githubusercontent.com/ROUXJM/ERGOFWU/main/supermini-V1.0.1.bin"
     }
   ]
 }
+
 
 
