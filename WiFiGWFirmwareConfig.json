@@ -2,9 +2,9 @@
   "Configurations": [
     {
       "Board": "ERGOSENSE ESP32-C3-SUPERMINI",
-      "Version": "1.0.2",
+      "Version": "1.0.3",
       "Config": "ERGO-WiFiGW",
-      "URL": "https://raw.githubusercontent.com/ROUXJM/ERGOFWU/main/wifigw-V1.0.2.bin"
+      "URL": "https://raw.githubusercontent.com/ROUXJM/ERGOFWU/main/wifigw-V1.0.3.bin"
     }
   ]
 }
